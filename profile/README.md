@@ -1,4 +1,4 @@
-<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/2d93adb9-b100-4d3f-9b9c-83751f069db9" /><img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/6afd13ff-2ef8-4bc4-9119-69ff0f2eb71b" />
+<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/6afd13ff-2ef8-4bc4-9119-69ff0f2eb71b" />
 
 ---
 ## 프로젝트 개요
