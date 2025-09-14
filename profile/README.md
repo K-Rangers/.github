@@ -1,4 +1,4 @@
-<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/6afd13ff-2ef8-4bc4-9119-69ff0f2eb71b" />
+<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/2d93adb9-b100-4d3f-9b9c-83751f069db9" /><img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/6afd13ff-2ef8-4bc4-9119-69ff0f2eb71b" />
 
 ---
 ## 프로젝트 개요
@@ -13,4 +13,6 @@
 
 <img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/ec16e501-f75e-46eb-a66a-ba24070af754" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/4428efe5-c5e3-4386-8c9d-c2fa2b1f7f43" />
+<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/0bfa8c05-6f90-40ba-b692-7ba17b084e4f" />
+
+<img width="3300" height="1854" alt="image" src="https://github.com/user-attachments/assets/f1706771-8d28-445e-ba27-9559624a8838" />
